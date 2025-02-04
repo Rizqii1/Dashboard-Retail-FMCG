@@ -1,61 +1,60 @@
 # Retail Sales Performance Overview
 ## 📌 Overview
-Dokumen ini berisi analisis kinerja penjualan produk dalam industri Fast-Moving Consumer Goods (FMCG). Analisis ini dilakukan untuk memahami pola penjualan berdasarkan kategori produk, efektivitas promosi, dan distribusi stok di berbagai lokasi.
+This document contains an analysis of product sales performance in the Fast-Moving Consumer Goods (FMCG) industry. This analysis is conducted to understand sales patterns based on product categories, promotional effectiveness, and stock distribution across locations.
 
-Dashboard yang dibuat membantu bisnis dalam mengoptimalkan strategi pemasaran, ketersediaan produk, dan efisiensi operasional.
+The dashboard created helps businesses optimize marketing strategies, product availability, and operational efficiency.
 
-![alt text]([https://github.com/Rizqii1/Finpro_Kelompok1/blob/main/Plot_%20Log.png?raw=true](https://github.com/Rizqii1/Dashboard-Retail-FMCG/blob/main/Screenshot_195.png))
 ## 🎯 Objective
-Tujuan dari analisis ini adalah:
+The objectives of this analysis are:
 
-Mengidentifikasi kategori produk yang paling populer dan pengaruhnya terhadap volume penjualan.
-Mengevaluasi efektivitas promosi dalam meningkatkan angka penjualan.
-Menganalisis penjualan berdasarkan lokasi (urban, suburban, rural) dan dampaknya terhadap strategi bisnis.
-Mengukur profitabilitas kategori produk dan menyusun strategi harga yang lebih efektif.
-Memberikan wawasan berbasis data untuk meningkatkan efisiensi manajemen stok dan daya saing bisnis.
+Identify the most popular product categories and their impact on sales volume.
+Evaluate the effectiveness of promotions in increasing sales figures.
+Analyze sales by location (urban, suburban, rural) and their impact on business strategy.
+Measure the profitability of product categories and develop more effective pricing strategies.
+Provide data-driven insights to improve inventory management efficiency and business competitiveness.
 
 ## 📊 Dataset
-Dataset yang digunakan memiliki 10 fitur utama:
+The dataset used has 10 main features:
 
-- Date – Tanggal transaksi atau pencatatan data.
-- Product_Category – Kategori produk (Household, Personal Care, Dairy, dll.).
-- Sales_Volume – Jumlah unit produk yang terjual.
-- Price – Harga per unit produk.
-- Promotion – Indikator apakah ada promosi (1 = ya, 0 = tidak).
-- Store_Location – Lokasi toko (Urban, Suburban, Rural).
-- Weekday – Hari dalam format numerik.
-- Supplier_Cost – Biaya supplier untuk produk.
-- Replenishment_Lead_Time – Waktu pemenuhan stok dalam hari.
-- Stock_Level – Jumlah stok produk yang tersedia.
+- Date – Transaction date or data recording.
+- Product_Category – Product category (Household, Personal Care, Dairy, etc.).
+- Sales_Volume – Number of product units sold.
+- Price – Price per product unit.
+- Promotion – Indicator of whether there is a promotion (1 = yes, 0 = no).
+- Store_Location – Store location (Urban, Suburban, Rural).
+- Weekday – Day in numeric format.
+- Supplier_Cost – Supplier cost for the product.
+- Replenishment_Lead_Time – Stock fulfillment time in days.
+- Stock_Level – Number of product stocks available.
 
 ## 🔄 Data Preprocessing
-Memeriksa struktur data, jumlah baris dan kolom, serta tipe data pada setiap kolom.
-Mengatasi nilai yang hilang atau tidak sesuai sebelum analisis lebih lanjut.
-Melakukan konversi data jika diperlukan untuk optimasi analisis dan visualisasi.
+Check the data structure, number of rows and columns, and data types in each column.
+Address missing or inconsistent values ​​before further analysis.
+Perform data conversions if necessary for analysis and visualization optimization.
 📈 Dashboard Insights
-Berikut beberapa hasil analisis utama:
+Here are some key analysis results:
 
 - 1️⃣ Sales Promotion vs Non-Promotion
-Promosi memiliki fluktuasi yang lebih besar dibandingkan non-promosi, dengan lonjakan tertinggi di 2023.
-Penjualan meningkat saat promosi, tetapi efektivitasnya menurun di akhir 2024.
-Non-promosi lebih stabil dalam jangka panjang dibandingkan promosi.
+Promotion has a greater fluctuation than non-promotion, with the highest spike in 2023.
+Sales increase during promotions, but their effectiveness decreases towards the end of 2024.
+Non-promotion is more stable in the long term than promotions.
 - 2️⃣ Sales by Product Category
-Beverages memiliki penjualan tertinggi (224,778 unit), diikuti oleh Personal Care (216,811 unit).
-Snacks memiliki penjualan terendah (192,525 unit), yang menunjukkan potensi untuk perbaikan.
+Beverages has the highest sales (224,778 units), followed by Personal Care (216,811 units).
+Snacks has the lowest sales (192,525 units), which shows potential for improvement.
 - 3️⃣ Sales by Day and Location
-Urban memiliki penjualan tertinggi (369,154 unit), diikuti oleh Rural (343,398 unit) dan Suburban (336,229 unit).
-Ini menunjukkan bahwa strategi pemasaran lebih efektif di area urban.
+Urban has the highest sales (369,154 units), followed by Rural (343,398 units) and Suburban (336,229 units).
+This shows that marketing strategies are more effective in urban areas.
 - 4️⃣ Stock Distribution by Location and Category
-Beverages memiliki stok tertinggi (55,652 unit), sementara Snacks memiliki stok terendah (51,706 unit).
-Distribusi stok relatif merata, tetapi kategori berpenjualan rendah perlu diperhatikan.
+Beverages has the highest stock (55,652 units), while Snacks has the lowest stock (51,706 units).
+The stock distribution is relatively even, but low-selling categories need attention.
 
 ## 📌 Conclusion
-Promosi efektif dalam meningkatkan penjualan, tetapi stabilitas penjualan non-promosi lebih baik dalam jangka panjang.
-Beverages adalah kategori terlaris, sementara Snacks memiliki kinerja terendah dan perlu strategi promosi yang lebih baik.
-Penjualan tertinggi terjadi di Urban, yang menunjukkan potensi strategi pemasaran yang lebih agresif di area ini.
-Distribusi stok cukup merata, tetapi kategori dengan stok rendah bisa dioptimalkan lebih lanjut.
+Promotion is effective in increasing sales, but non-promotion sales stability is better in the long term.
+Beverages is the best-selling category, while Snacks has the lowest performance and needs a better promotion strategy.
+The highest sales occurred in Urban, which shows the potential for a more aggressive marketing strategy in this area.
+Stock distribution is fairly even, but categories with low stock can be further optimized.
 
 ## 📬 Contact
-Jika ada pertanyaan atau ingin berkolaborasi, silakan hubungi saya:
+If you have any questions or would like to collaborate, please contact me:
 📧 Email: mochamadrizqii1@gmail.com
 🔗 LinkedIn: [Mochamad Rizqi](https://www.linkedin.com/in/mochamad-rizqi/)
