@@ -56,5 +56,6 @@ Stock distribution is fairly even, but categories with low stock can be further 
 
 ## 📬 Contact
 If you have any questions or would like to collaborate, please contact me:
+
 📧 Email: mochamadrizqii1@gmail.com
 🔗 LinkedIn: [Mochamad Rizqi](https://www.linkedin.com/in/mochamad-rizqi/)
