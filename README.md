@@ -4,6 +4,7 @@ Dokumen ini berisi analisis kinerja penjualan produk dalam industri Fast-Moving 
 
 Dashboard yang dibuat membantu bisnis dalam mengoptimalkan strategi pemasaran, ketersediaan produk, dan efisiensi operasional.
 
+![alt text]([https://github.com/Rizqii1/Finpro_Kelompok1/blob/main/Plot_%20Log.png?raw=true](https://github.com/Rizqii1/Dashboard-Retail-FMCG/blob/main/Screenshot_195.png))
 ## 🎯 Objective
 Tujuan dari analisis ini adalah:
 
