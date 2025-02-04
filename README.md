@@ -34,17 +34,17 @@ Melakukan konversi data jika diperlukan untuk optimasi analisis dan visualisasi.
 📈 Dashboard Insights
 Berikut beberapa hasil analisis utama:
 
-1️⃣ Sales Promotion vs Non-Promotion
+- 1️⃣ Sales Promotion vs Non-Promotion
 Promosi memiliki fluktuasi yang lebih besar dibandingkan non-promosi, dengan lonjakan tertinggi di 2023.
 Penjualan meningkat saat promosi, tetapi efektivitasnya menurun di akhir 2024.
 Non-promosi lebih stabil dalam jangka panjang dibandingkan promosi.
-2️⃣ Sales by Product Category
+- 2️⃣ Sales by Product Category
 Beverages memiliki penjualan tertinggi (224,778 unit), diikuti oleh Personal Care (216,811 unit).
 Snacks memiliki penjualan terendah (192,525 unit), yang menunjukkan potensi untuk perbaikan.
-3️⃣ Sales by Day and Location
+- 3️⃣ Sales by Day and Location
 Urban memiliki penjualan tertinggi (369,154 unit), diikuti oleh Rural (343,398 unit) dan Suburban (336,229 unit).
 Ini menunjukkan bahwa strategi pemasaran lebih efektif di area urban.
-4️⃣ Stock Distribution by Location and Category
+- 4️⃣ Stock Distribution by Location and Category
 Beverages memiliki stok tertinggi (55,652 unit), sementara Snacks memiliki stok terendah (51,706 unit).
 Distribusi stok relatif merata, tetapi kategori berpenjualan rendah perlu diperhatikan.
 
