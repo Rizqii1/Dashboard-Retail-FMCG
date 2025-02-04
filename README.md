@@ -57,4 +57,4 @@ Distribusi stok cukup merata, tetapi kategori dengan stok rendah bisa dioptimalk
 ## 📬 Contact
 Jika ada pertanyaan atau ingin berkolaborasi, silakan hubungi saya:
 📧 Email: mochamadrizqii1@gmail.com
-🔗 LinkedIn: Mochamad Rizqi
+🔗 LinkedIn: [Mochamad Rizqi](https://www.linkedin.com/in/mochamad-rizqi/)
