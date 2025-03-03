@@ -59,4 +59,4 @@ If you have any questions or would like to collaborate, please contact me:
 
 📧 Email: mochamadrizqii1@gmail.com
 🔗 LinkedIn: [Mochamad Rizqi](https://www.linkedin.com/in/mochamad-rizqi/)
-🔗 Dashboard: [Dashboard]((https://public.tableau.com/views/FMCG_17368278354260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 Dashboard: [Dashboard](https://public.tableau.com/views/FMCG_17368278354260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
